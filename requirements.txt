@@ -1,17 +1,8 @@
 certifi==2021.10.8
 cycler==0.11.0
-debugpy @ file:///C:/ci/debugpy_1637073815078/work
-decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints==0.3
 fonttools==4.28.2
-importlib-metadata @ file:///C:/ci/importlib-metadata_1631916848487/work
-ipykernel @ file:///C:/ci/ipykernel_1633545574250/work/dist/ipykernel-6.4.1-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1635944310712/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
-jedi @ file:///C:/ci/jedi_1611315808330/work
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
+Jinja2==3.0.1
 joblib==1.1.0
 jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
 jupyter==1.0.0
