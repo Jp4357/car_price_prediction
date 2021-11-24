@@ -1,5 +1,4 @@
 certifi==2021.10.8
-cffi @ file:///C:/ci/cffi_1636542074879/work
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cycler==0.11.0
 debugpy @ file:///C:/ci/debugpy_1637073815078/work
